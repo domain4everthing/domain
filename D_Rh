@@ -1,0 +1,50 @@
+{
+    "names": [
+        {
+            "data": [
+                {
+                    "extra": "",
+                    "value": "hzqshb.com"
+                },
+                {
+                    "extra": "",
+                    "value": "mtslqx.com"
+                }
+            ],
+            "name": "API",
+            "type": 1
+        },
+        {
+            "data": [
+                {
+                    "extra": "",
+                    "value": "jrumkd.cn"
+                }
+            ],
+            "name": "COMMON_SERVER",
+            "type": 1
+        },
+        {
+            "data": [
+                {
+                    "extra": "",
+                    "value": "https://jrumkd.cn:8888"
+                }
+            ],
+            "name": "FULL_COMMON_SERVER",
+            "type": 1
+        },
+        {
+            "data": [
+                {
+                    "extra": "",
+                    "value": "androidfrom.com"
+                }
+            ],
+            "name": "STABLE",
+            "type": 1
+        }
+    ],
+    "updateTime": 1563332926902,
+    "version": "2.0.1"
+}
